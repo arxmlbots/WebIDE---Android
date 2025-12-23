@@ -17,6 +17,9 @@ Fitur utama:
 - Export proyek dalam format **ZIP** langsung ke folder **Download/WebIDE**.
 - About & Help untuk informasi aplikasi dan panduan singkat.
 
+**NOTE:**
+Sorry guys kalo apk ini terlalu polos karena kita **mementingkan fungsi** dari pada rame tapi ga berjalan kan percuma 🙏🏼
+
 ---
 
 ## Screenshot / Demo
