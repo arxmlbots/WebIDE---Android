@@ -20,7 +20,7 @@ Fitur utama:
 ---
 
 ## Screenshot / Demo
-*(Tambahkan gambar atau GIF UI di sini, misal `screenshot.png`)*
+*![Preview WebIDE](icon_preview.png)*
 
 ---
 
