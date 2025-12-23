@@ -22,6 +22,15 @@ Sorry guys kalo apk ini terlalu polos karena kita **mementingkan fungsi** dari p
 
 ---
 
+## Changelog
+**v1.0 - 23 Dec 2025**
+- Rilis pertama WebIDE
+- HTML/CSS/JS editor dengan export ZIP
+- Mode Gabung & Pisah
+- About & Help screen
+
+---
+
 ## Screenshot / Demo
 ![Preview WebIDE](icon_preview.png)
 ![Preview WebIDE](preview_UI.png)
@@ -31,15 +40,6 @@ Sorry guys kalo apk ini terlalu polos karena kita **mementingkan fungsi** dari p
 1. Download APK dari [link release / F-Droid].
 2. Install di Android (minSdkVersion 14).
 3. Buka aplikasi, pilih mode, tulis kode, klik **Preview** atau **Export**.
-
----
-
-## Changelog
-**v1.0 - 23 Dec 2025**
-- Rilis pertama WebIDE
-- HTML/CSS/JS editor dengan export ZIP
-- Mode Gabung & Pisah
-- About & Help screen
 
 ---
 
