@@ -20,8 +20,8 @@ Fitur utama:
 ---
 
 ## Screenshot / Demo
-*![Preview WebIDE](icon_preview.png)*
-
+![Preview WebIDE](icon_preview.png)
+![Preview WebIDE] (preview_UI.png)
 ---
 
 ## Instalasi
