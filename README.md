@@ -32,7 +32,7 @@ Fitur utama:
 ---
 
 ## Changelog
-**v1.0**
+**v1.0 - 23 Dec 2025**
 - Rilis pertama WebIDE
 - HTML/CSS/JS editor dengan export ZIP
 - Mode Gabung & Pisah
@@ -41,7 +41,7 @@ Fitur utama:
 ---
 
 ## Folder Penyimpanan
-Proyek yang diexport disimpan di: folder /Download/WebIDE
+Proyek yang diexport disimpan di: **folder /Download/WebIDE**
 
 ---
 
