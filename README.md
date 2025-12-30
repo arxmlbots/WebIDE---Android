@@ -37,7 +37,7 @@ Sorry guys kalo apk ini terlalu polos karena kita **mementingkan fungsi** dari p
 ---
 
 ## Instalasi
-1. Download APK dari [link release / F-Droid].
+1. Download APK dari [download]()
 2. Install di Android (minSdkVersion 14).
 3. Buka aplikasi, pilih mode, tulis kode, klik **Preview** atau **Export**.
 
