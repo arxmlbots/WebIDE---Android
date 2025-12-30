@@ -34,10 +34,11 @@ Sorry guys kalo apk ini terlalu polos karena kita **mementingkan fungsi** dari p
 ## Screenshot / Demo
 ![Preview WebIDE](icon_preview.png)
 ![Preview WebIDE](preview_UI.png)
+
 ---
 
 ## Instalasi
-1. Download APK dari [download]()
+1. Download APK dari [download](https://github.com/arxmlbots/WebIDE---Android/releases/tag/V1.0)
 2. Install di Android (minSdkVersion 14).
 3. Buka aplikasi, pilih mode, tulis kode, klik **Preview** atau **Export**.
 
@@ -52,3 +53,59 @@ Proyek yang diexport disimpan di: **folder /Download/WebIDE**
 Apache License 2.0. Selengkapnya baca [LICENSE](LICENSE).
 
 ---
+
+ENGLISH:
+
+# WebIDE - Mobile HTML/CSS/JS Editor
+
+**Version:** 1.0  
+**Package:** `com.webide.builder`  
+**License:** Apache License 2.0  
+
+---
+
+## Description
+WebIDE is an Android app for creating and editing **HTML, CSS, and JavaScript files** directly from your phone.
+It's perfect for learning about the web, rapid prototyping, or light projects.
+
+Main features:
+- **Merge** Mode: HTML, CSS, and JS are combined in one file for quick preview.
+- **Separate** Mode: HTML, CSS, and JS are separated, ready for serious projects.- **Separate** Mode: HTML, CSS, and JS are separated, ready for serious projects.
+- Real-time preview using **WebView**.
+- Export the project in **ZIP** format directly to the **Download/WebIDE** folder.
+- About & Help for app information and quick guides.
+
+**NOTES:**
+Sorry guys if this app is too plain because we **prioritize function** rather than being busy but not working, it's useless 🙏🏼
+
+---
+
+## Changelog
+**v1.0 - 23 Dec 2025**
+- First release of WebIDE
+- HTML/CSS/JS editor with ZIP export
+- Merge & Split Mode
+- About & Help screen
+
+---
+
+## Screenshot / Demo
+![Preview WebIDE](icon_preview.png)
+![Preview WebIDE](preview_UI.png)
+
+---
+
+## Instalation
+1. Download APK from: [download](https://github.com/arxmlbots/WebIDE---Android/releases/tag/V1.0)
+2. Install on Android (minSdkVersion 14).
+3.Open the application, select the mode, write the code, click **Preview** or **Export**.
+
+---
+
+## Exported File Storage Folder
+Exported File Storage FolderThe exported project is stored in: **folder /Download/WebIDE**Exported File Storage FolderThe exported project is stored in: **folder /Download/WebIDE**
+
+---
+
+## License
+Apache License 2.0. For more information, see [LICENSE](LICENSE)
